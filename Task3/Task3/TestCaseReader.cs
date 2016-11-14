@@ -11,11 +11,10 @@ namespace Task3
         private const int DefaultLinesNum = 10;
         private static int _linesNum = DefaultLinesNum;
 
-        public static void Read(string path)
+        public static string Read(string path)
         {
             var lines = File.ReadAllLines(path).Skip(1);
             Random rand = new Random();
-            string restPath = path.Replace(".txt", "_rest.txt");
             string resPath = path.Replace(".txt", "_res.txt");
 
             if (File.Exists(resPath))
@@ -29,17 +28,16 @@ namespace Task3
                 File.AppendAllText(resPath, linesList[index] + Environment.NewLine, Encoding.UTF8);
                 linesList.RemoveAt(index);
             }
-            if (File.Exists(restPath))
-            {
-                File.Delete(restPath);
-            }
-            File.AppendAllLines(restPath, linesList);
+            File.Delete(path);
+            File.AppendAllLines(path, linesList);
+            return resPath;
         }
-        public static void Read(string path, int newLinesNum)
+        public static string Read(string path, int newLinesNum)
         {
             _linesNum = newLinesNum;
-            Read(path);
+            string resPath = Read(path);
             _linesNum = DefaultLinesNum;
+            return resPath;
         }
     }
 }

@@ -11,7 +11,8 @@ namespace Task3
             string path = Console.ReadLine();
             Console.WriteLine("Enter a number of lines");
             int linesNum = Convert.ToInt32(Console.ReadLine());
-            TestCaseReader.Read(path, linesNum);
+            string resPath = TestCaseReader.Read(path, linesNum);
+            Console.WriteLine(resPath);
         }
     }
 }
