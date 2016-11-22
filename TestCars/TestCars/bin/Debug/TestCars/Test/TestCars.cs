@@ -15,7 +15,7 @@ namespace TestCars.bin.Debug.TestCars.Test
         {
             List<Car> cars = new List<Car>();
             do
-            {
+            {//2000 Ferrari 456 GT
                 HomePage homePage = new HomePage();
                 homePage.GetMainMenu().GetItem(ReadXML.GetData("mainMenuItem"), ReadXML.GetData("mainSubMenuItem"));
                 ReviewsPage reviewsPage = new ReviewsPage();
