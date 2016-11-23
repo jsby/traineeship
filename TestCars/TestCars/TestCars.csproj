@@ -69,6 +69,7 @@
     <Compile Include="bin\Debug\FrameWork\BaseTest\BaseTest.cs" />
     <Compile Include="bin\Debug\FrameWork\Elements\BaseElement.cs" />
     <Compile Include="bin\Debug\FrameWork\Elements\Button.cs" />
+    <Compile Include="bin\Debug\FrameWork\Elements\CheckBox.cs" />
     <Compile Include="bin\Debug\FrameWork\Elements\ComboBox.cs" />
     <Compile Include="bin\Debug\FrameWork\Elements\Label.cs" />
     <Compile Include="bin\Debug\FrameWork\Elements\Link.cs" />
@@ -82,6 +83,7 @@
     <Compile Include="bin\Debug\TestCars\Pages\CarInfoPage.cs" />
     <Compile Include="bin\Debug\TestCars\Pages\CarOverviewPage.cs" />
     <Compile Include="bin\Debug\TestCars\Pages\CarsParentPage.cs" />
+    <Compile Include="bin\Debug\TestCars\Pages\ComparePage.cs" />
     <Compile Include="bin\Debug\TestCars\Pages\CurrentCarReviewsPage.cs" />
     <Compile Include="bin\Debug\TestCars\Pages\HomePage.cs" />
     <Compile Include="bin\Debug\TestCars\Pages\ReviewsPage.cs" />

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
@@ -28,15 +29,11 @@ namespace TestCars.bin.Debug.FrameWork.Elements
         public void ChooseRandomOption()
         {
             IList<IWebElement> options = comboBoxSelect.Options;
+            System.Diagnostics.Trace.WriteLine(options.Count);
             int index = random.Next(1, options.Count);
+            System.Diagnostics.Trace.WriteLine(index);
             IWebElement option = options[index];
             selectedValue = option.Text;
-            /*do
-            {
-            option = options[random.Next(options.Count)];
-              }
-            while (option.GetAttribute("value").Equals(""));
-            comboBoxSelect.SelectByValue(option.GetAttribute("value"));*/
             comboBoxSelect.SelectByIndex(index);
             element.Click();
         }

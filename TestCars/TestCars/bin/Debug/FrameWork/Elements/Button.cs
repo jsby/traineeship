@@ -14,12 +14,11 @@ namespace TestCars.bin.Debug.FrameWork.Elements
         }
         public void WaitAndClick()
         {
-            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromMilliseconds(double.Parse(ReadXML.GetData("wait"))));
             Thread.Sleep(3000);
             //IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
             /*Func<IWebDriver, bool> jsReady = webDriver => js.ExecuteScript("return document.readyState").ToString().Equals("complete");
             wait.Until(jsReady);*/
-            element = wait.Until(ExpectedConditions.ElementToBeClickable(locator));
+            WaitElement();
             element.Click();
         }
     }

@@ -14,30 +14,36 @@ namespace TestCars.bin.Debug.TestCars.Test
         public void TestMethod()
         {
             List<Car> cars = new List<Car>();
+            HomePage homePage = new HomePage();
             do
             {//2000 Ferrari 456 GT
-                HomePage homePage = new HomePage();
                 homePage.GetMainMenu().GetItem(ReadXML.GetData("mainMenuItem"), ReadXML.GetData("mainSubMenuItem"));
                 ReviewsPage reviewsPage = new ReviewsPage();
                 Car car = reviewsPage.SearchCar();
+                System.Diagnostics.Trace.WriteLine(car.GetMake());
+                System.Diagnostics.Trace.WriteLine(car.GetModel());
+                System.Diagnostics.Trace.WriteLine(car.GetYear());
                 CurrentCarReviewsPage currentCarReviewsPage = new CurrentCarReviewsPage();
                 currentCarReviewsPage.GoToModelDetails();
                 CarInfoPage carInfoPage = new CarInfoPage();
+                if (carInfoPage.GetNumOfTrims() == 0)
+                {
+                    continue;
+                }
+                if (carInfoPage.GetNumOfTrims() == 1 & cars.Count == 1)
+                {
+                    continue;
+                }
                 carInfoPage.GetCarMenu().GetItem(ReadXML.GetData("carMenuItem"));
-                if (!carInfoPage.AbleToViewDetails())
-                {
-                    continue;
-                }
-                if (!carInfoPage.AbleToCompare() & cars.Count == 1)
-                {
-                    continue;
-                }
                 carInfoPage.GetCarDetails();
                 CarOverviewPage carOverviewPage = new CarOverviewPage();
                 car.SetEngine(carOverviewPage.GetEngine());
                 car.SetTransmission(carOverviewPage.GetTransmission());
                 cars.Add(car);
             } while (cars.Count != 2);
+            driver.Navigate().Back();
+            CarInfoPage carToCompareInfoPage = new CarInfoPage();
+            carToCompareInfoPage.GoToCompare();
         }
     }
 }

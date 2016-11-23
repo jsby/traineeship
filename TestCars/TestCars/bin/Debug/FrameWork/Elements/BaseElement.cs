@@ -26,6 +26,8 @@ namespace TestCars.bin.Debug.FrameWork.Elements
         public void Click()
         {
             WaitElement();
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromMilliseconds(double.Parse(ReadXML.GetData("wait"))));
+            element = wait.Until(ExpectedConditions.ElementToBeClickable(locator));
             element.Click();
         }
         public string GetText()

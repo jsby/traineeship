@@ -10,6 +10,8 @@ namespace TestCars.bin.Debug.TestCars.Pages
         private CarMenu menu = new CarMenu(By.XPath("//div[@class='menu']"), "Car Menu");
         private Button btnViewDetails = new Button(By.XPath("//div[@class='cars-container']//div[contains(@class,'footer_section')]/a"), "View Details");
         private Label lblNumOfTrims = new Label(By.XPath("//section[@id='mmyDashboard']//b[contains(text(),'Trims')]/.."), "Num of trims");
+        private By locatorCheckBoxCompare = By.XPath("//div[@class='checkbox']");
+        private By locatorBtnCompare = By.XPath("//button[@class='cui-button']");
 
         public CarMenu GetCarMenu()
         {
@@ -20,14 +22,24 @@ namespace TestCars.bin.Debug.TestCars.Pages
         {
             btnViewDetails.WaitAndClick();
         }
-        public bool AbleToViewDetails()
+
+        public int GetNumOfTrims()
         {
-            Console.WriteLine(lblNumOfTrims.GetText());
-            return int.Parse(lblNumOfTrims.GetText()) > 0;
+            string[] lines = lblNumOfTrims.GetText().Split('\n');
+            char[] symbols = lines[1].ToCharArray();
+            if (!char.IsNumber(symbols[0]))
+            {
+                return 0;
+            }
+            return int.Parse(lines[1]);
         }
-        public bool AbleToCompare()
+
+        public void GoToCompare()
         {
-            return int.Parse(lblNumOfTrims.GetText()) > 1;
+            CheckBox chbCompare = new CheckBox(locatorCheckBoxCompare, "Compare checkbox");
+            chbCompare.Click();
+            Button btnCompare = new Button(locatorBtnCompare, "Button compare");
+            btnCompare.Click();
         }
     }
 }
