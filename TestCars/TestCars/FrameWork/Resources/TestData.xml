@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <browser>Firefox</browser>
+  <driversPath>..\\..\\FrameWork\\Resources\\</driversPath>
+  <startUrl>https://www.cars.com</startUrl>
+  <wait>3000</wait>
+  <mainMenuItem>Buy</mainMenuItem>
+  <mainSubMenuItem>Review a Car</mainSubMenuItem>
+  <carMenuItem>Trims</carMenuItem>
+</data>

@@ -35,6 +35,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Selenium.WebDriverBackedSelenium">
       <HintPath>..\..\..\Soft\Selenium\dotnet\net40\Selenium.WebDriverBackedSelenium.dll</HintPath>
     </Reference>
@@ -66,35 +70,44 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="bin\Debug\FrameWork\BaseTest\BaseTest.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\BaseElement.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\Button.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\CheckBox.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\ComboBox.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\Label.cs" />
-    <Compile Include="bin\Debug\FrameWork\Elements\Link.cs" />
-    <Compile Include="bin\Debug\FrameWork\Pages\BasePage.cs" />
-    <Compile Include="bin\Debug\FrameWork\Utils\Browser.cs" />
-    <Compile Include="bin\Debug\FrameWork\Utils\BrowserFactory.cs" />
-    <Compile Include="bin\Debug\FrameWork\Utils\ReadXML.cs" />
-    <Compile Include="bin\Debug\TestCars\Elements\CarMenu.cs" />
-    <Compile Include="bin\Debug\TestCars\Elements\MainMenu.cs" />
-    <Compile Include="bin\Debug\TestCars\Models\Car.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\CarInfoPage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\CarOverviewPage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\CarsParentPage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\ComparePage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\CurrentCarReviewsPage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\HomePage.cs" />
-    <Compile Include="bin\Debug\TestCars\Pages\ReviewsPage.cs" />
-    <Compile Include="bin\Debug\TestCars\Test\TestCars.cs" />
+    <Compile Include="FrameWork\BaseTest\BaseTest.cs" />
+    <Compile Include="FrameWork\Elements\BaseElement.cs" />
+    <Compile Include="FrameWork\Elements\Button.cs" />
+    <Compile Include="FrameWork\Elements\CheckBox.cs" />
+    <Compile Include="FrameWork\Elements\ComboBox.cs" />
+    <Compile Include="FrameWork\Elements\Label.cs" />
+    <Compile Include="FrameWork\Elements\Link.cs" />
+    <Compile Include="FrameWork\Pages\BasePage.cs" />
+    <Compile Include="FrameWork\Utils\Browser.cs" />
+    <Compile Include="FrameWork\Utils\BrowserFactory.cs" />
+    <Compile Include="FrameWork\Utils\Logger.cs" />
+    <Compile Include="FrameWork\Utils\ReadXML.cs" />
+    <Compile Include="TestCars\Elements\CarMenu.cs" />
+    <Compile Include="TestCars\Elements\MainMenu.cs" />
+    <Compile Include="TestCars\Models\Car.cs" />
+    <Compile Include="TestCars\Pages\CarInfoPage.cs" />
+    <Compile Include="TestCars\Pages\CarOverviewPage.cs" />
+    <Compile Include="TestCars\Pages\CarsParentPage.cs" />
+    <Compile Include="TestCars\Pages\ComparePage.cs" />
+    <Compile Include="TestCars\Pages\CurrentCarReviewsPage.cs" />
+    <Compile Include="TestCars\Pages\HomePage.cs" />
+    <Compile Include="TestCars\Pages\ReviewsPage.cs" />
+    <Compile Include="TestCars\Test\TestCars.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Content Include="bin\Debug\FrameWork\Resources\TestData.xml">
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FrameWork\Resources\TestData.xml">
       <SubType>Designer</SubType>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

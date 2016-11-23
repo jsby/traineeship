@@ -28,3 +28,6 @@ F:\VSSpace\train\TestCars\TestCars\bin\Debug\WebDriver.Support.xml
 F:\VSSpace\train\TestCars\TestCars\obj\Debug\TestCars.csprojResolveAssemblyReference.cache
 F:\VSSpace\train\TestCars\TestCars\obj\Debug\TestCars.dll
 F:\VSSpace\train\TestCars\TestCars\obj\Debug\TestCars.pdb
+D:\VSProjects\TestCars\TestCars\bin\Debug\log4net.dll
+D:\VSProjects\TestCars\TestCars\bin\Debug\log4net.xml
+D:\VSProjects\TestCars\TestCars\bin\Debug\TestCars.dll.config

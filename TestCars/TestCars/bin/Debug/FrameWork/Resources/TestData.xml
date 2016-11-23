@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<data>
-  <browser>Chrome</browser>
-  <startUrl>https://www.cars.com</startUrl>
-  <wait>3000</wait>
-  <mainMenuItem>Buy</mainMenuItem>
-  <mainSubMenuItem>Review a Car</mainSubMenuItem>
-  <carMenuItem>Trims</carMenuItem>
-</data>
