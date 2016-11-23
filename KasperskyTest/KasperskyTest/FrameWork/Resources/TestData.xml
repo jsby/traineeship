@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <browser>Chrome</browser>
+  <driversPath>..\\..\\FrameWork\\Resources\\</driversPath>
+  <startUrl>https://my.kaspersky.com/</startUrl>
+  <wait>3000</wait>
+  <mainMenuItem>Store</mainMenuItem>
+  <mainSubMenuItem>item</mainSubMenuItem>
+</data>
