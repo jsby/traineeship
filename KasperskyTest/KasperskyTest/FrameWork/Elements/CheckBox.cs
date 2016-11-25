@@ -1,8 +1,8 @@
 ﻿using OpenQA.Selenium;
 
-namespace TestCars.FrameWork.Elements
+namespace KasperskyTest.FrameWork.Elements
 {
-    class CheckBox : BaseElement
+    public class CheckBox : BaseElement
     {
         public CheckBox(By locator, string description) : base(locator, description)
         {

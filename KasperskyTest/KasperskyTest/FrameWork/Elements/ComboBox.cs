@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace TestCars.FrameWork.Elements
+namespace KasperskyTest.FrameWork.Elements
 {
-    class ComboBox : BaseElement
+    public class ComboBox : BaseElement
     {
-        private SelectElement comboBoxSelect;
-        private Random random = new Random();
-        private string selectedValue = "";
+        private SelectElement _comboBoxSelect;
+        private readonly Random _random = new Random();
+        private string _selectedValue = "";
 
         public ComboBox(By locator, string description) : base(locator, description)
         {
@@ -17,37 +17,39 @@ namespace TestCars.FrameWork.Elements
 
         public void ChooseByValueAndClick(string value)
         {
-            comboBoxSelect = new SelectElement(GetWebElement());
-            comboBoxSelect.SelectByValue(value);
-            element.Click();
+            _comboBoxSelect = new SelectElement(GetWebElement());
+            _comboBoxSelect.SelectByValue(value);
+            Element.Click();
         }
+
         public void ChooseByIndexAndClick(int index)
         {
-            comboBoxSelect = new SelectElement(GetWebElement());
-            comboBoxSelect.SelectByIndex(index);
-            element.Click();
+            _comboBoxSelect = new SelectElement(GetWebElement());
+            _comboBoxSelect.SelectByIndex(index);
+            Element.Click();
         }
+
         public void ChooseRandomOption()
         {
-            comboBoxSelect = new SelectElement(GetWebElement());
-            IList<IWebElement> options = comboBoxSelect.Options;
-            int index = random.Next(1, options.Count);
+            _comboBoxSelect = new SelectElement(GetWebElement());
+            IList<IWebElement> options = _comboBoxSelect.Options;
+            int index = _random.Next(1, options.Count);
             IWebElement option = options[index];
-            selectedValue = option.Text;
-            comboBoxSelect.SelectByIndex(index);
-            log.Info(description + ": choose " + selectedValue);
-            element.Click();
+            _selectedValue = option.Text;
+            _comboBoxSelect.SelectByIndex(index);
+            Log.Info(Description + ": choose " + _selectedValue);
+            Element.Click();
         }
 
         public void ChooseByText(string text)
         {
-            comboBoxSelect = new SelectElement(GetWebElement());
-            IList<IWebElement> options = comboBoxSelect.Options;
+            _comboBoxSelect = new SelectElement(GetWebElement());
+            IList<IWebElement> options = _comboBoxSelect.Options;
             foreach (var option in options)
             {
                 if (option.Text.Contains(text))
                 {
-                    log.Info(description + ": choose " + option.Text);
+                    Log.Info(Description + ": choose " + option.Text);
                     option.Click();
                 }
             }
@@ -55,7 +57,7 @@ namespace TestCars.FrameWork.Elements
 
         public string GetSelectedValue()
         {
-            return selectedValue;
+            return _selectedValue;
         }
     }
 }

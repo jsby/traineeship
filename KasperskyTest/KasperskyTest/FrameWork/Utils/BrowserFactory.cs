@@ -2,26 +2,27 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
-
-namespace TestCars.FrameWork.Utils
+namespace KasperskyTest.FrameWork.Utils
 {
-    class BrowserFactory
+    public class BrowserFactory
     {
-        protected static ILog log = Logger.GetInstance();
+        private static readonly ILog Log = Logger.GetInstance();
+        private static readonly string DriversPath = XmlReader.GetData("driversPath");
+
         internal static IWebDriver GetDriver(string name)
         {
             IWebDriver driver = null;
             switch (name)
             {
                 case "Firefox":
-                    FirefoxDriverService service = FirefoxDriverService.CreateDefaultService(ReadXML.GetData("driversPath"), "geckodriver.exe");
+                    FirefoxDriverService service = FirefoxDriverService.CreateDefaultService(DriversPath, "geckodriver.exe");
                     driver = new FirefoxDriver(service);
                     break;
                 case "Chrome":
-                    driver = new ChromeDriver(ReadXML.GetData("driversPath"));
+                    driver = new ChromeDriver(DriversPath);
                     break;
             }
-            log.Info("Browser: " + name);
+            Log.Info("Browser: " + name);
             return driver;
         }
     }

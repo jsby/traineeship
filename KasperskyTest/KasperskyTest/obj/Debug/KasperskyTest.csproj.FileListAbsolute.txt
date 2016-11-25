@@ -19,3 +19,4 @@ D:\VSProjects\KasperskyTest\KasperskyTest\bin\Debug\ru\Microsoft.VisualStudio.Qu
 D:\VSProjects\KasperskyTest\KasperskyTest\obj\Debug\KasperskyTest.csprojResolveAssemblyReference.cache
 D:\VSProjects\KasperskyTest\KasperskyTest\obj\Debug\KasperskyTest.dll
 D:\VSProjects\KasperskyTest\KasperskyTest\obj\Debug\KasperskyTest.pdb
+D:\VSProjects\KasperskyTest\KasperskyTest\bin\Debug\KasperskyTest.dll.config

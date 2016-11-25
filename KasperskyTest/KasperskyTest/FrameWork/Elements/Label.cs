@@ -1,8 +1,8 @@
 ﻿using OpenQA.Selenium;
 
-namespace TestCars.FrameWork.Elements
+namespace KasperskyTest.FrameWork.Elements
 {
-    class Label:BaseElement
+    public class Label:BaseElement
     {
         public Label(By locator, string description) : base(locator, description)
         {

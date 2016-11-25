@@ -2,8 +2,10 @@
 <data>
   <browser>Chrome</browser>
   <driversPath>..\\..\\FrameWork\\Resources\\</driversPath>
+  <excelPath>..\\..\\FrameWork\\Resources\\TestData.xls</excelPath>
   <startUrl>https://my.kaspersky.com/</startUrl>
   <wait>3000</wait>
   <mainMenuItem>Store</mainMenuItem>
   <mainSubMenuItem>item</mainSubMenuItem>
+  <storeMenuItem>Windows</storeMenuItem>
 </data>

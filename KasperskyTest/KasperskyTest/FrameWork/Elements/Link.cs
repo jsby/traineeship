@@ -1,8 +1,8 @@
 ﻿using OpenQA.Selenium;
 
-namespace TestCars.FrameWork.Elements
+namespace KasperskyTest.FrameWork.Elements
 {
-    class Link:BaseElement
+    public class Link:BaseElement
     {
         public Link(By locator, string description) : base(locator, description)
         {

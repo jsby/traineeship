@@ -1,9 +1,8 @@
 ﻿using OpenQA.Selenium;
-using TestCars.FrameWork.Elements;
 
 namespace KasperskyTest.FrameWork.Elements
 {
-    class TextBox : BaseElement
+    public class TextBox : BaseElement
     {
         public TextBox(By locator, string description) : base(locator, description)
         {
@@ -11,12 +10,16 @@ namespace KasperskyTest.FrameWork.Elements
 
         public void SendKeys(string text)
         {
-            element.SendKeys(text);
+            WaitElement();
+            Log.Info(Description + ": set " + text);
+            Element.SendKeys(text);
         }
 
         public void Submit()
         {
-            element.Submit();
+            WaitElement();
+            Log.Info(Description + ": submit");
+            Element.Submit();
         }
     }
 }

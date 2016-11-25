@@ -1,14 +1,15 @@
-﻿using OpenQA.Selenium;
-using TestCars.FrameWork.Elements;
+﻿using KasperskyTest.FrameWork.Elements;
+using OpenQA.Selenium;
 
 namespace KasperskyTest.TestKPC.Pages
 {
-    class DevicesPage : KpcParentPage
+    public class DevicesPage : KpcParentPage
     {
-        private Label lblHelp = new Label(By.XPath("//nav[contains(@class,'js-devices')]//a"), "Label <Help>");
+        private readonly Label _lblHelp = new Label(By.XPath("//nav[contains(@class,'js-devices')]//a"), "Label <Help>");
+
         public DevicesPage()
         {
-            lblHelp.IsDisplayed();
+            _lblHelp.IsDisplayed();
         }
     }
 }

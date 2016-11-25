@@ -1,14 +1,14 @@
 ﻿using OpenQA.Selenium;
 
-namespace TestCars.FrameWork.Utils
+namespace KasperskyTest.FrameWork.Utils
 {
-    class Browser
+    public class Browser
     {
-        private static IWebDriver _instance = null;
+        private static IWebDriver _instance;
 
         public static IWebDriver GetInstance()
         {
-            return _instance ?? (_instance = BrowserFactory.GetDriver(ReadXML.GetData("browser")));
+            return _instance ?? (_instance = BrowserFactory.GetDriver(XmlReader.GetData("browser")));
         }
     }
 }

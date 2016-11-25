@@ -43,6 +43,8 @@
       <HintPath>..\..\..\Soft\Selenium\dotnet\net40\Selenium.WebDriverBackedSelenium.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
     <Reference Include="ThoughtWorks.Selenium.Core">
       <HintPath>..\..\..\Soft\Selenium\dotnet\net40\ThoughtWorks.Selenium.Core.dll</HintPath>
     </Reference>
@@ -66,25 +68,34 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="FrameWork\BaseTest\BaseTest.cs" />
+    <Compile Include="FrameWork\BaseTest.cs" />
     <Compile Include="FrameWork\Elements\BaseElement.cs" />
     <Compile Include="FrameWork\Elements\Button.cs" />
     <Compile Include="FrameWork\Elements\CheckBox.cs" />
     <Compile Include="FrameWork\Elements\ComboBox.cs" />
     <Compile Include="FrameWork\Elements\Label.cs" />
     <Compile Include="FrameWork\Elements\Link.cs" />
+    <Compile Include="FrameWork\Elements\Menu.cs" />
     <Compile Include="FrameWork\Elements\TextBox.cs" />
-    <Compile Include="FrameWork\Pages\BasePage.cs" />
+    <Compile Include="FrameWork\BasePage.cs" />
     <Compile Include="FrameWork\Utils\Browser.cs" />
     <Compile Include="FrameWork\Utils\BrowserFactory.cs" />
+    <Compile Include="FrameWork\Utils\ExcelReader.cs" />
     <Compile Include="FrameWork\Utils\Logger.cs" />
-    <Compile Include="FrameWork\Utils\ReadXML.cs" />
+    <Compile Include="FrameWork\Utils\XmlReader.cs" />
     <Compile Include="TestKPC\Elements\MainMenu.cs" />
+    <Compile Include="TestKPC\Elements\OptionsList.cs" />
+    <Compile Include="TestKPC\Elements\StoreMenu.cs" />
+    <Compile Include="TestKPC\Models\Option.cs" />
+    <Compile Include="TestKPC\Models\Product.cs" />
     <Compile Include="TestKPC\Pages\DevicesPage.cs" />
     <Compile Include="TestKPC\Pages\KpcParentPage.cs" />
     <Compile Include="TestKPC\Pages\HomePage.cs" />
+    <Compile Include="TestKPC\Pages\ProductPage.cs" />
+    <Compile Include="TestKPC\Pages\StorePage.cs" />
     <Compile Include="TestKPC\Test\TestKPC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestKPC\Utils\ProductComparer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -93,11 +104,11 @@
   <ItemGroup>
     <Content Include="FrameWork\Resources\chromedriver.exe" />
     <Content Include="FrameWork\Resources\geckodriver.exe" />
-    <Content Include="FrameWork\Resources\TestData.xml" />
+    <Content Include="FrameWork\Resources\TestData.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="TestKPC\Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

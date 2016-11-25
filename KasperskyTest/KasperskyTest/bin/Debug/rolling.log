@@ -1,0 +1,1008 @@
+2016-11-24 20:11:39,809 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-24 20:11:49,423 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-24 20:11:49,591 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-24 20:11:49,668 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: getzazazzaa@yandex.by
+2016-11-24 20:11:49,854 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: get05Dec1991
+2016-11-24 20:11:50,087 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-24 20:11:50,136 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-24 20:12:08,201 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-24 20:12:08,210 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-24 20:12:08,299 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-24 20:12:14,016 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-24 20:12:14,025 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-24 20:12:14,373 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-24 20:12:14,448 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-24 20:12:17,646 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-24 20:12:17,946 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-24 20:12:18,021 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-24 20:12:20,754 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 12:42:07,256 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 12:42:12,827 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 12:42:13,004 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 12:42:13,083 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: getzazazzaa@yandex.by
+2016-11-25 12:42:13,269 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: get05Dec1991
+2016-11-25 12:42:13,541 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 12:42:13,586 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 12:42:24,969 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 12:42:24,980 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 12:42:25,087 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:42:28,676 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 12:42:28,684 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 12:42:29,072 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:42:29,156 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 12:42:32,221 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 12:42:32,551 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:42:32,630 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 12:42:34,988 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 12:45:06,329 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 12:45:11,250 [15] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 12:45:11,403 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 12:45:11,468 [15] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: getzazazzaa@yandex.by
+2016-11-25 12:45:11,665 [15] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: get05Dec1991
+2016-11-25 12:45:11,911 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 12:45:11,949 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 12:45:21,092 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 12:45:21,103 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 12:45:21,203 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:45:21,276 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 12:45:24,132 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 12:45:24,477 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:45:24,558 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 12:45:27,311 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 12:45:27,601 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:45:27,685 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 12:45:30,308 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 12:45:30,532 [15] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 12:45:30,532 [15] INFO KasperskyTest.FrameWork.Utils.Logger - 3
+2016-11-25 12:45:30,533 [15] INFO KasperskyTest.FrameWork.Utils.Logger - 3
+2016-11-25 12:45:30,533 [15] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 12:52:37,893 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 12:52:43,991 [20] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 12:52:44,131 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 12:52:44,214 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 12:52:44,381 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 12:52:44,633 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 12:52:44,674 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 12:52:54,572 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 12:52:54,586 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 12:52:54,698 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:52:54,776 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 12:52:58,771 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 12:52:59,123 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:52:59,205 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 12:53:04,008 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 12:53:04,300 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 12:53:04,376 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 12:53:06,912 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 12:53:07,141 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 12:53:07,141 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 3 devices
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 1 year
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - $692
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 3 devices
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 1 year
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - $592
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 3 devices
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - 1 year
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - $492
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 12:53:07,142 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security
+2016-11-25 13:05:43,060 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:05:47,943 [15] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:05:48,088 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:05:48,164 [15] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:05:48,367 [15] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:05:48,671 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:05:48,686 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:05:59,012 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:05:59,020 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:05:59,117 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:06:03,086 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:06:03,095 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:06:03,454 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:06:03,536 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:06:05,844 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:06:06,147 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:06:06,222 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:06:08,994 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:06:09,214 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:06:09,215 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:06:09,215 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:06:09,215 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:06:09,215 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:06:09,215 [15] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:08:20,302 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:08:24,901 [23] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:08:25,086 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:08:25,153 [23] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:08:25,377 [23] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:08:25,590 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:08:25,647 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:08:33,645 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:08:33,654 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:08:33,754 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:08:33,839 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:08:36,992 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:08:37,341 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:08:37,421 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:08:40,490 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:08:40,782 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:08:40,870 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:08:42,952 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:08:43,170 [23] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:09:45,065 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:09:49,949 [24] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:09:50,090 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:09:50,168 [24] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:09:50,356 [24] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:09:50,570 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:09:50,621 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:10:02,048 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:10:02,059 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:10:02,151 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:10:02,244 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:10:06,157 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:10:06,499 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:10:06,574 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:10:09,859 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:10:10,158 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:10:10,235 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:10:12,788 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:10:13,021 [24] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:13:07,807 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:13:14,322 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:13:14,480 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:13:14,556 [4] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:13:14,789 [4] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:13:15,063 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:13:15,086 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:13:25,396 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:13:25,406 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:13:25,517 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:13:25,594 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:13:33,046 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:13:33,384 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:13:33,470 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:13:37,826 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:13:38,114 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:13:38,201 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:13:40,440 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:13:40,661 [4] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:13:40,662 [4] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:19:11,713 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:19:16,170 [20] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:19:16,370 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:19:16,453 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:19:16,673 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:19:16,943 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:19:16,970 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:19:27,801 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:19:27,811 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:19:27,911 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:19:27,999 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:19:31,856 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:19:32,190 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:19:32,274 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:19:34,833 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:19:35,117 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:19:35,203 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:19:37,589 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:19:37,816 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Total Security
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Internet Security
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Anti-Virus
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:19:37,817 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:25:07,517 [15] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:25:33,655 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:25:39,737 [22] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:25:39,896 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:25:39,957 [22] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:25:40,152 [22] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:25:40,384 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:25:40,439 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:25:45,322 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:25:50,338 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:25:50,451 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:25:50,525 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:25:56,213 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:25:56,567 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:25:56,644 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:26:00,306 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:26:00,627 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:26:00,701 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:26:02,642 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:26:02,871 [22] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Total Security
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Internet Security
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Anti-Virus
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $692
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $792
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $592
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $692
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $492
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $592
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $49.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $59.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $49.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $59.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:26:02,872 [22] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:27:14,907 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:27:20,975 [20] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:27:21,145 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:27:21,222 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:27:21,451 [20] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:27:21,757 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:27:21,779 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:27:31,896 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:27:31,901 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:27:32,006 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:27:32,090 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:27:34,888 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:27:35,253 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:27:35,335 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:27:38,739 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:27:39,071 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:27:41,268 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:27:41,274 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:27:41,523 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Total Security
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Internet Security
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Anti-Virus
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $69.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $79.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $59.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $69.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $49.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $59.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $49.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $59.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:27:41,524 [20] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:31:29,765 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:31:34,278 [8] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:31:34,449 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:31:34,523 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:31:34,707 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:31:34,954 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:31:35,009 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:31:44,735 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:31:44,742 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:31:44,839 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:31:48,890 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:31:48,897 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:31:49,275 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:31:49,358 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:31:52,218 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:31:52,536 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:31:52,612 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:31:55,114 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:31:55,370 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:31:55,370 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Total Security
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Internet Security
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product Kaspersky
+Anti-Virus
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $69.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $79.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $59.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $69.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:31:55,371 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:35:59,276 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:36:04,112 [19] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:36:04,255 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:36:04,318 [19] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:36:04,510 [19] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:36:04,789 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:36:04,815 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:36:13,874 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:36:13,884 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:36:13,884 [19] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:36:13,885 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 13:36:13,995 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:36:14,082 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:36:17,973 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:36:18,275 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 13:36:18,350 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:36:18,427 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:36:22,167 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:36:22,422 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 13:36:22,491 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:36:22,575 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:36:25,135 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Total Security!
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Internet Security!
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Anti-Virus!
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:36:25,406 [19] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $69.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $79.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $59.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $69.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:36:25,407 [19] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:43:59,599 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:44:05,393 [8] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:44:05,541 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:44:05,608 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:44:05,799 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:44:06,071 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:44:06,088 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:44:17,092 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:44:17,102 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:44:17,102 [8] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:44:17,103 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 13:44:17,207 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:44:17,300 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:44:21,858 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:44:22,141 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 13:44:22,213 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:44:22,313 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:44:26,301 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:44:26,664 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 13:44:26,780 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:44:26,856 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:44:30,812 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:44:31,073 [8] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:44:31,073 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:44:31,073 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Total Security!
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Internet Security!
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Anti-Virus!
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $69.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $79.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $59.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $69.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:44:31,074 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:47:02,721 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:47:08,112 [21] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:47:08,260 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:47:08,336 [21] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:47:08,557 [21] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:47:08,769 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:47:08,819 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:47:14,189 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:47:18,654 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:47:18,654 [21] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:47:18,655 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 13:47:18,799 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:47:24,500 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:47:24,509 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:47:24,818 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 13:47:24,885 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:47:24,968 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:47:27,974 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:47:28,264 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 13:47:28,332 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:47:28,413 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:47:32,381 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:47:32,642 [21] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:47:32,642 [21] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:47:32,642 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Total Security!
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Internet Security!
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky
+Anti-Virus!
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - devices 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - years 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - costs 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - options 0
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 3 devices 1 year $69.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Total Security 5 devices 1 year $79.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 3 devices 1 year $59.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Internet Security 5 devices 1 year $69.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky
+Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:47:32,643 [21] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:54:06,871 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 13:54:11,598 [8] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 13:54:11,740 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 13:54:11,807 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 13:54:12,009 [8] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 13:54:12,306 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 13:54:12,326 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 13:54:21,807 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 13:54:21,817 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 13:54:21,817 [8] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:54:21,817 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 13:54:21,911 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:54:22,000 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 13:54:25,070 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 13:54:25,382 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 13:54:25,448 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:54:25,534 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 13:54:29,305 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 13:54:29,558 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 13:54:29,622 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 13:54:29,697 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 13:54:31,830 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:54:32,112 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 13:54:32,113 [8] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:13:12,405 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:13:17,699 [17] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:13:17,851 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:13:17,925 [17] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:13:18,203 [17] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:13:18,432 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:13:18,455 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:13:24,028 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:13:29,853 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:13:29,854 [17] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:13:29,854 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:13:29,968 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:13:30,053 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:13:33,829 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:13:34,176 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:13:34,241 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:13:34,324 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:13:38,541 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:13:38,809 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:13:38,878 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:13:38,954 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:13:41,261 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:13:41,544 [17] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:13:41,544 [17] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:13:41,544 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:13:41,545 [17] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:32:34,900 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:32:39,849 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:32:40,004 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:32:40,072 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:32:40,288 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:32:40,554 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:32:40,585 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:32:46,517 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:32:50,215 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:32:50,215 [9] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:32:50,216 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:32:50,326 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:32:50,415 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:32:53,796 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:32:54,091 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:32:54,162 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:32:54,238 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:32:59,885 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:33:00,178 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:33:00,245 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:33:00,331 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:33:02,413 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:33:02,674 [9] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:33:02,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:33:56,307 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:34:02,570 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:34:02,726 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:34:02,798 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:34:02,985 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:34:03,246 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:34:03,274 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:34:17,463 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:34:17,471 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:34:17,471 [5] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:34:17,472 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:34:17,585 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:34:17,667 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:34:23,621 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:34:23,930 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:34:23,995 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:34:24,072 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:34:26,718 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:34:26,973 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:34:27,036 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:34:27,115 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:34:31,067 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:34:31,316 [5] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!!!!!!!!
+2016-11-25 14:34:31,316 [5] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:34:31,316 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Total Security!
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Internet Security!
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - product !Kaspersky Anti-Virus!
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - devices 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - years 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - costs 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - options 2
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $69.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $59.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $49.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 3 devices 1 year $79.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security 5 devices 1 year $79.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 3 devices 1 year $69.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security 5 devices 1 year $69.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 3 devices 1 year $59.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus 5 devices 1 year $59.99
+2016-11-25 14:34:31,317 [5] INFO KasperskyTest.FrameWork.Utils.Logger - =======
+2016-11-25 14:39:08,912 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:39:13,247 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:39:13,445 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:39:13,533 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:39:13,754 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:39:13,944 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:39:13,993 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:39:19,619 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:39:19,734 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:45:01,923 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:45:07,731 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:45:07,879 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:45:07,953 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:45:08,143 [5] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:45:08,371 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:45:08,463 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:45:13,259 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:45:18,524 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:45:18,531 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:45:18,531 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 14:45:18,642 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:45:18,739 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:45:25,264 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:45:25,702 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:45:25,779 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:45:29,278 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:45:29,603 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:45:29,687 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:45:31,712 [5] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:45:31,971 [5] INFO KasperskyTest.FrameWork.Utils.Logger - products from site are ready to compare
+2016-11-25 14:45:31,971 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 4
+2016-11-25 14:45:31,971 [5] INFO KasperskyTest.FrameWork.Utils.Logger - products from excel are ready to compare
+2016-11-25 14:45:31,971 [5] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 5
+2016-11-25 14:46:21,153 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:46:25,923 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:46:26,066 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:46:26,136 [4] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:46:26,351 [4] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:46:26,635 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:46:26,665 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:46:32,915 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:46:33,012 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:46:38,219 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:46:38,219 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 14:46:38,336 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:46:38,420 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:46:43,333 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:46:43,705 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:46:43,787 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:46:47,618 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:46:47,951 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:46:48,030 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:46:50,187 [4] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:46:50,452 [4] INFO KasperskyTest.FrameWork.Utils.Logger - products from site are ready to compare
+2016-11-25 14:46:50,453 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 4
+2016-11-25 14:46:50,453 [4] INFO KasperskyTest.FrameWork.Utils.Logger - products from excel are ready to compare
+2016-11-25 14:46:50,453 [4] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 5
+2016-11-25 14:47:42,702 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:47:47,490 [13] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:47:47,659 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:47:47,724 [13] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:47:47,926 [13] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:47:48,210 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:47:48,232 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:47:53,737 [13] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:47:59,513 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:47:59,520 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:47:59,520 [13] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 14:47:59,627 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:47:59,720 [13] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:48:32,166 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:48:37,242 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:48:37,401 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:48:37,476 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:48:37,675 [9] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:48:37,910 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:48:37,966 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:48:43,954 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:48:50,427 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:48:50,439 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:48:50,439 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 14:48:50,542 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:48:50,632 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:48:55,740 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:48:56,116 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:48:59,401 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:48:59,408 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:48:59,785 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:48:59,864 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:49:01,888 [9] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:49:02,151 [9] INFO KasperskyTest.FrameWork.Utils.Logger - products from site are ready to compare
+2016-11-25 14:49:02,151 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 4
+2016-11-25 14:49:02,151 [9] INFO KasperskyTest.FrameWork.Utils.Logger - products from excel are ready to compare
+2016-11-25 14:49:02,151 [9] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 5
+2016-11-25 14:49:02,152 [9] INFO KasperskyTest.FrameWork.Utils.Logger - !!!!!
+2016-11-25 14:49:20,148 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 14:49:27,694 [6] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 14:49:27,855 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 14:49:27,945 [6] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 14:49:28,144 [6] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 14:49:28,387 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 14:49:28,413 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 14:49:33,492 [6] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 14:49:37,887 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 14:49:37,899 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 14:49:37,899 [6] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 14:49:37,999 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:49:38,091 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Total Security>: click
+2016-11-25 14:49:41,994 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 14:49:42,360 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:49:42,438 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Internet Security>: click
+2016-11-25 14:49:45,387 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 14:49:45,727 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Windows>: click
+2016-11-25 14:49:45,806 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main sub menu item) <Kaspersky Anti-Virus>: click
+2016-11-25 14:49:48,114 [6] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 14:49:48,374 [6] INFO KasperskyTest.FrameWork.Utils.Logger - products from site are ready to compare
+2016-11-25 14:49:48,374 [6] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 4
+2016-11-25 14:49:48,375 [6] INFO KasperskyTest.FrameWork.Utils.Logger - products from excel are ready to compare
+2016-11-25 14:49:48,375 [6] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 5
+2016-11-25 18:24:25,949 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Browser: Chrome
+2016-11-25 18:24:30,639 [14] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 1
+2016-11-25 18:24:30,831 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Go to sign in>: click
+2016-11-25 18:24:30,904 [14] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Email>: set zazazzaa@yandex.by
+2016-11-25 18:24:31,123 [14] INFO KasperskyTest.FrameWork.Utils.Logger - TextBox <Password>: set 05Dec1991
+2016-11-25 18:24:31,387 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button <Sign in>: click
+2016-11-25 18:24:31,430 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Welcome to My Kaspersky! is opened
+2016-11-25 18:24:36,427 [14] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 2
+2016-11-25 18:24:39,775 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Main menu item) <Store>: click
+2016-11-25 18:24:39,782 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Store | My Kaspersky is opened
+2016-11-25 18:24:39,782 [14] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 3
+2016-11-25 18:24:39,927 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store menu item) <Windows>: click
+2016-11-25 18:24:40,031 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store sub menu item) <Kaspersky Total Security >: click
+2016-11-25 18:24:43,641 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Total Security | My Kaspersky is opened
+2016-11-25 18:24:44,002 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store menu item) <Windows>: click
+2016-11-25 18:24:44,079 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store sub menu item) <Kaspersky Internet Security >: click
+2016-11-25 18:24:47,356 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Internet Security | My Kaspersky is opened
+2016-11-25 18:24:47,676 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store menu item) <Windows>: click
+2016-11-25 18:24:47,750 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Button (Store sub menu item) <Kaspersky Anti-Virus >: click
+2016-11-25 18:24:50,003 [14] INFO KasperskyTest.FrameWork.Utils.Logger - Kaspersky Anti-Virus | My Kaspersky is opened
+2016-11-25 18:24:50,253 [14] INFO KasperskyTest.FrameWork.Utils.Logger - products from site are ready to compare
+2016-11-25 18:24:50,253 [14] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 4
+2016-11-25 18:24:50,254 [14] INFO KasperskyTest.FrameWork.Utils.Logger - products from excel are ready to compare
+2016-11-25 18:24:50,254 [14] INFO KasperskyTest.FrameWork.Utils.Logger - STEP 5

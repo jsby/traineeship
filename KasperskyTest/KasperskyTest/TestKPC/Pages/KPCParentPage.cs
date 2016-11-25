@@ -1,21 +1,21 @@
-﻿using KasperskyTest.TestKPC.Elements;
+﻿using KasperskyTest.FrameWork;
+using KasperskyTest.TestKPC.Elements;
 using OpenQA.Selenium;
-using TestCars.FrameWork.Pages;
 
 namespace KasperskyTest.TestKPC.Pages
 {
-    class KpcParentPage : BasePage
+    public class KpcParentPage : BasePage
     {
-        private MainMenu mainMenu = new MainMenu(By.ClassName("//ul[@class='main-menu']"), "Main menu");
+        private readonly MainMenu _mainMenu = new MainMenu(By.ClassName("//ul[@class='main-menu']"), "Main menu");
 
         public KpcParentPage()
         {
-            log.Info(GetPageTitle() + " is opened");
+            Log.Info(GetPageTitle() + " is opened");
         }
 
         public MainMenu GetMainMenu()
         {
-            return mainMenu;
+            return _mainMenu;
         }
     }
 }
