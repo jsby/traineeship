@@ -37,38 +37,34 @@ namespace KasperskyTest.FrameWork.Utils
             var columnNameArray = _dataSet.Tables[0].Rows[0].ItemArray;
             for (int columnIndex = 0; columnIndex < columnNameArray.Length; columnIndex++)
             {
-                if (columnNameArray[columnIndex].ToString().Equals(column))
-                {
-                    //1 - match from 1 row
-                    var itemArray = _dataSet.Tables[0].Rows[1].ItemArray;
-                    value = itemArray[columnIndex].ToString();
-                }
+                if (!columnNameArray[columnIndex].ToString().Equals(column)) continue;
+                //1 - match from 1 row
+                var itemArray = _dataSet.Tables[0].Rows[1].ItemArray;
+                value = itemArray[columnIndex].ToString();
             }
             return value;
         }
 
         /// <summary>
-        /// return all matches from column
+        /// return all matches without duplicates from column
         /// </summary>
         /// <param name="column">column name</param>
         /// <returns>matches</returns>
-        public static List<string> GetValues(string column)
+        public static List<string> GetValuesFromColumn(string column)
         {
             List<string> values = new List<string>();
             //Rows[0] - first row with columns names
             var columnNameArray = _dataSet.Tables[0].Rows[0].ItemArray;
             for (int columnIndex = 0; columnIndex < columnNameArray.Length; columnIndex++)
             {
-                if (columnNameArray[columnIndex].ToString().Equals(column))
+                if (!columnNameArray[columnIndex].ToString().Equals(column)) continue;
+                //rowIndex = 1, because we don't need first row with columns names
+                for (int rowIndex = 1; rowIndex < _dataSet.Tables[0].Rows.Count; rowIndex++)
                 {
-                    //rowIndex = 1, because we don't need first row with columns names
-                    for (int rowIndex = 1; rowIndex < _dataSet.Tables[0].Rows.Count; rowIndex++)
+                    var itemArray = _dataSet.Tables[0].Rows[rowIndex].ItemArray;
+                    if (!values.Contains(itemArray[columnIndex].ToString()))
                     {
-                        var itemArray = _dataSet.Tables[0].Rows[rowIndex].ItemArray;
-                        if (!values.Contains(itemArray[columnIndex].ToString()))
-                        {
-                            values.Add(itemArray[columnIndex].ToString());
-                        }
+                        values.Add(itemArray[columnIndex].ToString());
                     }
                 }
             }
@@ -76,36 +72,48 @@ namespace KasperskyTest.FrameWork.Utils
         }
 
         /// <summary>
-        /// return matches from column where (column, value) 
+        /// return all matches without duplicates from row
         /// </summary>
-        /// <param name="column">column name</param>
-        /// <param name="whereColumn">column name where</param>
-        /// <param name="whereValue">value where</param>
+        /// <param name="rowValue">rowValue name</param>
         /// <returns>matches</returns>
-        public static List<string> GetValuesWhere(string column, string whereColumn, string whereValue)
+        public static List<string> GetValuesFromRow(string rowValue)
         {
             List<string> values = new List<string>();
             //Rows[0] - first row with columns names
             var columnNameArray = _dataSet.Tables[0].Rows[0].ItemArray;
-            for (int whereColumnIndex = 0; whereColumnIndex < columnNameArray.Length; whereColumnIndex++)
+            for (int columnIndex = 0; columnIndex < columnNameArray.Length; columnIndex++)
             {
-                if (columnNameArray[whereColumnIndex].ToString().Equals(whereColumn))
+                if (!columnNameArray[columnIndex].ToString().Equals(rowValue)) continue;
+                //rowIndex = 1, because we don't need first row with columns names
+                for (int rowIndex = 1; rowIndex < _dataSet.Tables[0].Rows.Count; rowIndex++)
                 {
-                    //rowIndex = 1, because we don't need first row with columns names
-                    for (int rowIndex = 1; rowIndex < _dataSet.Tables[0].Rows.Count; rowIndex++)
+                    var itemArray = _dataSet.Tables[0].Rows[rowIndex].ItemArray;
+                    if (!values.Contains(itemArray[columnIndex].ToString()))
                     {
-                        var valueArray = _dataSet.Tables[0].Rows[rowIndex].ItemArray;
-                        if (valueArray[whereColumnIndex].ToString().Normalize().Equals(whereValue.Normalize()))
-                        {
-                            for (int columnIndex = 0; columnIndex < columnNameArray.Length; columnIndex++)
-                            {
-                                if (columnNameArray[columnIndex].ToString().Equals(column))
-                                {
-                                    values.Add(valueArray[columnIndex].ToString());
-                                }
-                            }
-                        }
+                        values.Add(itemArray[columnIndex].ToString());
                     }
+                }
+            }
+            return values;
+        }
+        /// <summary>
+        /// return all matches with duplicates from column
+        /// </summary>
+        /// <param name="column">column name</param>
+        /// <returns>matches</returns>
+        public static List<string> GetColumn(string column)
+        {
+            List<string> values = new List<string>();
+            //Rows[0] - first row with columns names
+            var columnNameArray = _dataSet.Tables[0].Rows[0].ItemArray;
+            for (int columnIndex = 0; columnIndex < columnNameArray.Length; columnIndex++)
+            {
+                if (!columnNameArray[columnIndex].ToString().Equals(column)) continue;
+                //rowIndex = 1, because we don't need first row with columns names
+                for (int rowIndex = 1; rowIndex < _dataSet.Tables[0].Rows.Count; rowIndex++)
+                {
+                    var itemArray = _dataSet.Tables[0].Rows[rowIndex].ItemArray;
+                    values.Add(itemArray[columnIndex].ToString());
                 }
             }
             return values;

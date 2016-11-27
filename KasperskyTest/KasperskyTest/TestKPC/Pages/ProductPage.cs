@@ -15,9 +15,14 @@ namespace KasperskyTest.TestKPC.Pages
             _lblProductName.IsDisplayed();
         }
 
+        public string GetProductName()
+        {
+            return _lblProductName.GetText();
+        }
+
         public Product GetProduct()
         {
-            return new Product(_lblProductName.GetText(), _optionsList.GetOptions());
+            return new Product(GetProductName(), _optionsList.GetOptions());
         }
     }
 }

@@ -31,9 +31,10 @@ namespace KasperskyTest.TestKPC.Test
 
             Log.Info("STEP 3");
             List<Product> productsFromSite = new List<Product>();
-            foreach (var product in ExcelReader.GetValues("product"))
+
+            foreach (var productName in ExcelReader.GetValuesFromColumn("product"))
             {
-                storePage.GetStoreMenu().GetSubItem(XmlReader.GetData("storeMenuItem"), product);
+                storePage.GetStoreMenu().GetSubItem(XmlReader.GetData("storeMenuItem"), productName);
                 ProductPage productPage = new ProductPage();
                 productsFromSite.Add(productPage.GetProduct());
             }
@@ -41,15 +42,20 @@ namespace KasperskyTest.TestKPC.Test
 
             Log.Info("STEP 4");
             List<Product> productsFromExcel = new List<Product>();
+            List<string> products = ExcelReader.GetColumn("product");
+            List<string> devices = ExcelReader.GetColumn("devices");
+            List<string> years = ExcelReader.GetColumn("year");
+            List<string> costs = ExcelReader.GetColumn("cost");
+
             foreach (var product in productsFromSite)
             {
-                List<string> devices = ExcelReader.GetValuesWhere("devices", "product", product.Name);
-                List<string> years = ExcelReader.GetValuesWhere("year", "product", product.Name);
-                List<string> costs = ExcelReader.GetValuesWhere("cost", "product", product.Name);
                 List<Option> options = new List<Option>();
-                for (int optionsNum = 0; optionsNum < devices.Count; optionsNum++)
+                for (int rowIndex = 0; rowIndex < products.Count; rowIndex++)
                 {
-                    options.Add(new Option(devices[optionsNum], years[optionsNum], costs[optionsNum]));
+                    if (products[rowIndex].Equals(product.Name))
+                    {
+                        options.Add(new Option(devices[rowIndex], years[rowIndex], costs[rowIndex]));
+                    }
                 }
                 productsFromExcel.Add(new Product(product.Name, options));
             }
