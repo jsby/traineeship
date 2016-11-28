@@ -1,0 +1,12 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{9B6EFBB4-19AC-4B96-8252-5CBDB469F5FA}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution TestCalculator[TestCalculator[Framework[Elements[]Resources[]Utils[]]TestCalc[Test[]]calculate.rxrec[]openApp.rxrec[]TestCalculatorRepository.rxrep[]validateResult.rxrec[]]]]&#xD;&#xA;Solution TestCalculator\TestCalculator\TestCalculatorRepository.rxrep\TestCalculatorRepository.cs&#xD;&#xA;Solution TestCalculator\TestCalculator\TestCalc\Test\TestCalc.cs" />
+  <StartupProject value="{9B6EFBB4-19AC-4B96-8252-5CBDB469F5FA}" />
+</Properties>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="5344e33b-e1d8-48b0-b003-78a9ed99a92d"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		openApp
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="openApp"
+	namespace="TestCalculator"/>
+	<variables/>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		optional="False"
+		maximized="False">
+			<comment/>
+			<bindings/>
+			<filename>
+				Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+			</filename>
+			<workingdir>
+				Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+			</workingdir>
+			<args/>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	name="TestCalculatorRepository"
+	id="b428bde6-e231-400d-9e05-3db51b7a3819"
+	rxversion="6.1"
+	relativepath="TestCalculatorRepository.rxrep">
+		<codegen
+		classname="TestCalculatorRepository"
+		namespace="TestCalculator"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="b7da740d-fb14-4bce-9017-a7b2d5d64d19"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		openApp.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>

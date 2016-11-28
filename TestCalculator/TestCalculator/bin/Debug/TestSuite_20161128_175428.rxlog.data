@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="1e1cb93e5af8e2a6"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="i2.solovyev"
+		host="SOLOVYEVI2"
+		rxversion="6.1.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1920x1080"
+		timestamp="28.11.2016 17:54:28"
+		timestampiso="2016-11-28T14:54:28"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.034"
+			timeRelativeToTestModuleStartTime="00:00.035"
+			timeWallClock="17:54:28"
+			time="00:00.034"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="D:\RanorexProjects\TestCalculator\TestCalculator\Framework\Apps\BaseApp.cs"
+				codeline="25"
+				loglvl="Info"/>
+		</item>
+	</activity>
+</report>

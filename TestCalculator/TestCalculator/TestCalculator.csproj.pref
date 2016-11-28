@@ -1,0 +1,15 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="TestCalculatorRepository.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="TestCalculatorRepository.cs" />
+    <Element value="TestCalc\Test\TestCalc.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
