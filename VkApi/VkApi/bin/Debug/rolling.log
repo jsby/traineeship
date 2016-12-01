@@ -347,3 +347,236 @@
 2016-12-01 19:28:49,145 [14] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"8f6f041dfc:x\",\"sizes\":[[\"s\",\"638818928\",\"10283\",\"TxRmWPyDGls\",75,44],[\"m\",\"638818928\",\"10284\",\"Ixz6ur6pGm8\",130,76],[\"x\",\"638818928\",\"10285\",\"c0Xvly9VZB0\",604,355],[\"o\",\"638818928\",\"10286\",\"AVUFFZJKVDs\",130,87],[\"p\",\"638818928\",\"10287\",\"0NlEEjxSi4E\",200,133],[\"q\",\"638818928\",\"10288\",\"ZLCAKR3YfsU\",320,213],[\"r\",\"638818928\",\"10289\",\"1STUcB5zyEQ\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"b57b5c20257fc05721a8aa44d4ce4d26"}
 2016-12-01 19:28:49,331 [14] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239046,"id":"photo381108928_456239046","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/10284\/Ixz6ur6pGm8.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/10285\/c0Xvly9VZB0.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/10283\/TxRmWPyDGls.jpg","width":604,"height":355,"text":"","created":1480609729}]}
 2016-12-01 19:28:50,030 [14] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1278}}
+2016-12-01 22:10:50,893 [9] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:10:51,473 [9] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"74ef4b29f6:x\",\"sizes\":[[\"s\",\"638818928\",\"102dc\",\"TpyPlnhSsSI\",75,44],[\"m\",\"638818928\",\"102dd\",\"y0C_q9PX4gc\",130,76],[\"x\",\"638818928\",\"102de\",\"I0jy7sHrSuw\",604,355],[\"o\",\"638818928\",\"102df\",\"ronfXUHhopc\",130,87],[\"p\",\"638818928\",\"102e0\",\"XrT2Rp3Bgpk\",200,133],[\"q\",\"638818928\",\"102e1\",\"slaW3qj5eu0\",320,213],[\"r\",\"638818928\",\"102e2\",\"F-Npc0oZaPg\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"c35f4bb704166034203b12de470bd270"}
+2016-12-01 22:10:51,693 [9] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239047,"id":"photo381108928_456239047","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/102dd\/y0C_q9PX4gc.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/102de\/I0jy7sHrSuw.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/102dc\/TpyPlnhSsSI.jpg","width":604,"height":355,"text":"","created":1480619439}]}
+2016-12-01 22:10:51,937 [9] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1296}}
+2016-12-01 22:13:12,346 [14] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:13:12,877 [14] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"08bd29f3d4:x\",\"sizes\":[[\"s\",\"638818928\",\"102e3\",\"9QBPrwuOFbo\",75,44],[\"m\",\"638818928\",\"102e4\",\"KIPEc6R9aCU\",130,76],[\"x\",\"638818928\",\"102e5\",\"63g_8LK2W8o\",604,355],[\"o\",\"638818928\",\"102e6\",\"IJn9agVNhFk\",130,87],[\"p\",\"638818928\",\"102e7\",\"mAyMSTAEy4A\",200,133],[\"q\",\"638818928\",\"102e8\",\"y2cjQaaPyuQ\",320,213],[\"r\",\"638818928\",\"102e9\",\"ehNuAzO3tKQ\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"1d999d6a11f2b745cbdbae86bac577ff"}
+2016-12-01 22:13:13,089 [14] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239048,"id":"photo381108928_456239048","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/102e4\/KIPEc6R9aCU.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/102e5\/63g_8LK2W8o.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/102e3\/9QBPrwuOFbo.jpg","width":604,"height":355,"text":"","created":1480619581}]}
+2016-12-01 22:13:13,368 [14] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1297}}
+2016-12-01 22:15:08,317 [9] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:15:08,716 [9] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 22:15:08,915 [9] INFO VkApi.FrameWork.Utils.Logger - {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: photos_list is invalid","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"photos.saveWallPhoto"},{"key":"server","value":"638818"},{"key":"photo","value":"[]"},{"key":"hash","value":"b68a0a299fcde76feb7d8a2c35f90a29"}]}}
+2016-12-01 22:24:16,988 [17] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:24:17,044 [17] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:24:17,044 [17] INFO VkApi.FrameWork.Utils.Logger - System.Net.ConnectStream
+2016-12-01 22:24:17,445 [17] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"9df07bde59:x\",\"sizes\":[[\"s\",\"638818928\",\"102ee\",\"9RcnuXAlbew\",75,44],[\"m\",\"638818928\",\"102ef\",\"ecaGlfA0t9w\",130,76],[\"x\",\"638818928\",\"102f0\",\"N_k0aVXqxhA\",604,355],[\"o\",\"638818928\",\"102f1\",\"CLh72OaFpD8\",130,87],[\"p\",\"638818928\",\"102f2\",\"2tMMcaR6UEM\",200,133],[\"q\",\"638818928\",\"102f3\",\"2VoZzbuUDWw\",320,213],[\"r\",\"638818928\",\"102f4\",\"BkOHBOK0OYc\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"06503e0807624c97ad80be11d2ab038c"}
+2016-12-01 22:24:17,808 [17] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239049,"id":"photo381108928_456239049","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/102ef\/ecaGlfA0t9w.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/102f0\/N_k0aVXqxhA.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/102ee\/9RcnuXAlbew.jpg","width":604,"height":355,"text":"","created":1480620245}]}
+2016-12-01 22:24:18,704 [17] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1302}}
+2016-12-01 22:27:47,502 [7] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:27:47,554 [7] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:29:15,180 [13] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:29:15,227 [13] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:31:41,270 [20] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:31:41,639 [20] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 22:31:41,814 [20] INFO VkApi.FrameWork.Utils.Logger - {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: photos_list is invalid","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"photos.saveWallPhoto"},{"key":"server","value":"638818"},{"key":"photo","value":"[]"},{"key":"hash","value":"b68a0a299fcde76feb7d8a2c35f90a29"}]}}
+2016-12-01 22:33:09,646 [8] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:33:09,983 [8] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 22:33:10,240 [8] INFO VkApi.FrameWork.Utils.Logger - {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: photos_list is invalid","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"photos.saveWallPhoto"},{"key":"server","value":"638818"},{"key":"photo","value":"[]"},{"key":"hash","value":"b68a0a299fcde76feb7d8a2c35f90a29"}]}}
+2016-12-01 22:36:12,252 [26] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:36:12,300 [26] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:36:12,300 [26] INFO VkApi.FrameWork.Utils.Logger - False
+2016-12-01 22:36:12,786 [26] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"4ce22380b9:x\",\"sizes\":[[\"s\",\"638818928\",\"1031c\",\"egGxwDTqM1c\",75,44],[\"m\",\"638818928\",\"1031d\",\"aG6UggwzZ7c\",130,76],[\"x\",\"638818928\",\"1031e\",\"pRSPdBRtijA\",604,355],[\"o\",\"638818928\",\"1031f\",\"cVvzl7FkRko\",130,87],[\"p\",\"638818928\",\"10320\",\"GcwOGJxM8U8\",200,133],[\"q\",\"638818928\",\"10321\",\"aA2GE1h0jGI\",320,213],[\"r\",\"638818928\",\"10322\",\"zmw77oU3y1U\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"fb785d24cba43374657baaca6593b5a3"}
+2016-12-01 22:36:13,073 [26] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239050,"id":"photo381108928_456239050","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/1031d\/aG6UggwzZ7c.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/1031e\/pRSPdBRtijA.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/1031c\/egGxwDTqM1c.jpg","width":604,"height":355,"text":"","created":1480620961}]}
+2016-12-01 22:36:13,320 [26] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1314}}
+2016-12-01 22:37:09,445 [23] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:37:09,496 [23] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:37:09,496 [23] INFO VkApi.FrameWork.Utils.Logger - False
+2016-12-01 22:37:10,011 [23] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"37f0a18230:x\",\"sizes\":[[\"s\",\"638818928\",\"10323\",\"LPJWfuz78vE\",75,44],[\"m\",\"638818928\",\"10324\",\"qJWrEbPip8A\",130,76],[\"x\",\"638818928\",\"10325\",\"rlgjMOGQ5ns\",604,355],[\"o\",\"638818928\",\"10326\",\"KdSDALEPEzQ\",130,87],[\"p\",\"638818928\",\"10327\",\"NFXtthw9Fbs\",200,133],[\"q\",\"638818928\",\"10328\",\"0639uKrTMGY\",320,213],[\"r\",\"638818928\",\"10329\",\"KFB7iO8dRVA\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"32075d97c76587aaf9009bafb0c8a109"}
+2016-12-01 22:37:10,274 [23] INFO VkApi.FrameWork.Utils.Logger - {"response":[{"pid":456239051,"id":"photo381108928_456239051","aid":-14,"owner_id":381108928,"src":"https:\/\/pp.vk.me\/c638818\/v638818928\/10324\/qJWrEbPip8A.jpg","src_big":"https:\/\/pp.vk.me\/c638818\/v638818928\/10325\/rlgjMOGQ5ns.jpg","src_small":"https:\/\/pp.vk.me\/c638818\/v638818928\/10323\/LPJWfuz78vE.jpg","width":604,"height":355,"text":"","created":1480621018}]}
+2016-12-01 22:37:10,654 [23] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1315}}
+2016-12-01 22:39:02,109 [21] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:39:02,169 [21] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:39:34,562 [7] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:39:34,607 [7] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:47:52,727 [15] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:47:52,788 [15] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:47:52,788 [15] INFO VkApi.FrameWork.Utils.Logger - 
+--
+
+--
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+--
+
+2016-12-01 22:47:53,266 [15] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"eec111e490:x\",\"sizes\":[[\"s\",\"638818928\",\"1033a\",\"wHOKJ7cguCg\",75,44],[\"m\",\"638818928\",\"1033b\",\"O0v8XrnewRI\",130,76],[\"x\",\"638818928\",\"1033c\",\"Ge-d2jNg1gM\",604,355],[\"o\",\"638818928\",\"1033d\",\"JirI7nvaW9g\",130,87],[\"p\",\"638818928\",\"1033e\",\"meoNa0BGWWQ\",200,133],[\"q\",\"638818928\",\"1033f\",\"jLCcdaP1VDw\",320,213],[\"r\",\"638818928\",\"10340\",\"Ho8A-sUo67E\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"adfface6613e6be55cecf6e4d8478a20"}
+2016-12-01 22:51:40,122 [5] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:51:40,172 [5] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:51:40,172 [5] INFO VkApi.FrameWork.Utils.Logger - 
+-----------------------------8d41a3c9d0e8b34
+
+-----------------------------8d41a3c9d0e8b34
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+-----------------------------8d41a3c9d0e8b34
+
+2016-12-01 22:51:40,604 [5] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"12eaf95946:x\",\"sizes\":[[\"s\",\"638818928\",\"10341\",\"KRQW-F4Welk\",75,44],[\"m\",\"638818928\",\"10342\",\"nptVBHw4ybQ\",130,76],[\"x\",\"638818928\",\"10343\",\"n9wDfin_Peo\",604,355],[\"o\",\"638818928\",\"10344\",\"gmjPA9aPDn4\",130,87],[\"p\",\"638818928\",\"10345\",\"T9M1ogqES7M\",200,133],[\"q\",\"638818928\",\"10346\",\"8cwS6DbkDKI\",320,213],[\"r\",\"638818928\",\"10347\",\"eeHDpfQlwls\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"c91a086c7b6b34c92647db6a8dd8a9a3"}
+2016-12-01 22:53:28,406 [18] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:53:28,456 [18] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:53:28,456 [18] INFO VkApi.FrameWork.Utils.Logger - 
+--
+
+--
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+--
+
+2016-12-01 22:53:28,723 [18] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 22:53:51,107 [8] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:53:51,149 [8] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:53:51,149 [8] INFO VkApi.FrameWork.Utils.Logger - 
+--
+
+--
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+--
+
+2016-12-01 22:53:51,563 [8] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"c20c814521:x\",\"sizes\":[[\"s\",\"638818928\",\"10351\",\"dO05OPGHbwY\",75,44],[\"m\",\"638818928\",\"10352\",\"ipx69BiSlX0\",130,76],[\"x\",\"638818928\",\"10353\",\"Ujj9n_9BJkY\",604,355],[\"o\",\"638818928\",\"10354\",\"B1GAT4Evxbs\",130,87],[\"p\",\"638818928\",\"10355\",\"zI9AUGlxnR4\",200,133],[\"q\",\"638818928\",\"10356\",\"1hLWsxrq8rM\",320,213],[\"r\",\"638818928\",\"10357\",\"4JzajiVy2kM\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"033cddf9c423c88ef69ea2664f44aae0"}
+2016-12-01 22:54:37,076 [6] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:54:37,114 [6] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:54:37,114 [6] INFO VkApi.FrameWork.Utils.Logger - 
+--
+
+--
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+--
+
+2016-12-01 22:54:37,516 [6] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"27527da80a:x\",\"sizes\":[[\"s\",\"638818928\",\"10358\",\"J3eifi73tFY\",75,44],[\"m\",\"638818928\",\"10359\",\"a6URmxqidvI\",130,76],[\"x\",\"638818928\",\"1035a\",\"68QNiPl_xpU\",604,355],[\"o\",\"638818928\",\"1035b\",\"qVu5Z74pKRo\",130,87],[\"p\",\"638818928\",\"1035c\",\"jHKEuG-508E\",200,133],[\"q\",\"638818928\",\"1035d\",\"D2pxfcFQ1u8\",320,213],[\"r\",\"638818928\",\"1035e\",\"DLOa8oFU2x0\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"016fc8b86f6c9a2c251b21b37a239673"}
+2016-12-01 22:56:20,856 [7] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:56:20,905 [7] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:56:20,905 [7] INFO VkApi.FrameWork.Utils.Logger - 
+----
+
+----
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+----
+
+2016-12-01 22:56:21,176 [7] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 22:57:01,512 [28] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:57:01,563 [28] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:57:01,563 [28] INFO VkApi.FrameWork.Utils.Logger - 
+----
+
+----
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+----
+
+2016-12-01 22:57:01,939 [28] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"3e9cd2aa6e:x\",\"sizes\":[[\"s\",\"638818928\",\"10369\",\"28u4wvWapT0\",75,44],[\"m\",\"638818928\",\"1036a\",\"ip4z13sPMew\",130,76],[\"x\",\"638818928\",\"1036b\",\"poTXrAWMoQM\",604,355],[\"o\",\"638818928\",\"1036c\",\"_l5Cd5Kq3Xk\",130,87],[\"p\",\"638818928\",\"1036d\",\"85Yx-vza7D0\",200,133],[\"q\",\"638818928\",\"1036e\",\"jMdKiFQu69s\",320,213],[\"r\",\"638818928\",\"1036f\",\"UKzljBMbIjQ\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"0dac57d35f8ccf29aaffd10f42f37e50"}
+2016-12-01 22:57:46,717 [16] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:57:46,770 [16] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:57:46,770 [16] INFO VkApi.FrameWork.Utils.Logger - 
+----
+
+----
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+----
+
+2016-12-01 22:57:47,211 [16] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"35ba3402c0:x\",\"sizes\":[[\"s\",\"638818928\",\"10370\",\"r6TkUu-gl2c\",75,44],[\"m\",\"638818928\",\"10371\",\"zR_ma3PGlcE\",130,76],[\"x\",\"638818928\",\"10372\",\"bh7jBr8izjE\",604,355],[\"o\",\"638818928\",\"10373\",\"j4VxQ58iTos\",130,87],[\"p\",\"638818928\",\"10374\",\"ZTxNpTIJiHE\",200,133],[\"q\",\"638818928\",\"10375\",\"ucqMK7dmpjA\",320,213],[\"r\",\"638818928\",\"10376\",\"3OvOVsNjYfs\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"36a67366f44785608a00463f240bcb28"}
+2016-12-01 22:58:54,969 [27] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:58:55,024 [27] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:58:55,024 [27] INFO VkApi.FrameWork.Utils.Logger - 
+----
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+----
+
+2016-12-01 22:58:55,414 [27] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"6f203dda06:x\",\"sizes\":[[\"s\",\"638818928\",\"10377\",\"qMvxGle57q0\",75,44],[\"m\",\"638818928\",\"10378\",\"AzEafMfHdh4\",130,76],[\"x\",\"638818928\",\"10379\",\"iaoBJECbF0E\",604,355],[\"o\",\"638818928\",\"1037a\",\"ILvnsj7ywtc\",130,87],[\"p\",\"638818928\",\"1037b\",\"Y8BebSlUfpQ\",200,133],[\"q\",\"638818928\",\"1037c\",\"dttNiyi9qCU\",320,213],[\"r\",\"638818928\",\"1037d\",\"blhmusZY48Y\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"cf0e8f4d7a8d523ad2910f9ab8c49394"}
+2016-12-01 22:59:58,643 [8] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 22:59:58,695 [8] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 22:59:58,695 [8] INFO VkApi.FrameWork.Utils.Logger - 
+----
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+----
+
+2016-12-01 22:59:58,978 [8] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 23:00:53,601 [5] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:00:53,659 [5] INFO VkApi.FrameWork.Utils.Logger - !!!!!!!STREAM
+2016-12-01 23:00:53,659 [5] INFO VkApi.FrameWork.Utils.Logger - 
+--------
+Content-Disposition: form-data; name="photo"; filename="..\\..\\FrameWork\\Resources\\work.jpg"
+Content-Type: image/jpeg
+
+
+--------
+
+2016-12-01 23:00:54,058 [5] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"1a3e1168d7:x\",\"sizes\":[[\"s\",\"638818928\",\"1037e\",\"Jn813rkOxNg\",75,44],[\"m\",\"638818928\",\"1037f\",\"loTfO8jYQrs\",130,76],[\"x\",\"638818928\",\"10380\",\"YEcssQe9ME0\",604,355],[\"o\",\"638818928\",\"10381\",\"PY6C4_7A9KU\",130,87],[\"p\",\"638818928\",\"10382\",\"jg87IFqnF5E\",200,133],[\"q\",\"638818928\",\"10383\",\"xKYUqx34zOc\",320,213],[\"r\",\"638818928\",\"10384\",\"RDoMbJ346s8\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"0cf487bddcdb4958c1c29e40143336de"}
+2016-12-01 23:02:17,593 [21] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:02:18,066 [21] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"8ce3e3fda1:x\",\"sizes\":[[\"s\",\"638818928\",\"10385\",\"GoJadLyHuzI\",75,44],[\"m\",\"638818928\",\"10386\",\"Irvn15RQy-Q\",130,76],[\"x\",\"638818928\",\"10387\",\"9aRyUPnF7Nw\",604,355],[\"o\",\"638818928\",\"10388\",\"GsGT3oauc2E\",130,87],[\"p\",\"638818928\",\"10389\",\"sKBdpnmbRaY\",200,133],[\"q\",\"638818928\",\"1038a\",\"VeMQT6JtFc8\",320,213],[\"r\",\"638818928\",\"1038b\",\"46H11SBK8lo\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"48b18ca70140b18efbabd61331cc87dd"}
+2016-12-01 23:03:48,457 [4] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:03:48,956 [4] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"455a09d1cc:x\",\"sizes\":[[\"s\",\"638818928\",\"1038c\",\"EOV9_zvV3uE\",75,44],[\"m\",\"638818928\",\"1038d\",\"lMh2JpiO4x0\",130,76],[\"x\",\"638818928\",\"1038e\",\"PppZUAhO2GY\",604,355],[\"o\",\"638818928\",\"1038f\",\"7qFoGdZZlb0\",130,87],[\"p\",\"638818928\",\"10390\",\"zbaHzEh8Ak8\",200,133],[\"q\",\"638818928\",\"10391\",\"nYatFDY5Yj4\",320,213],[\"r\",\"638818928\",\"10392\",\"VeJ8aVNkhq0\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"f8c8d34a9db1bc134084b814c84c8d34"}
+2016-12-01 23:04:26,229 [15] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:04:26,661 [15] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"065926d86e:x\",\"sizes\":[[\"s\",\"638818928\",\"10393\",\"2ovjuW2pqxY\",75,44],[\"m\",\"638818928\",\"10394\",\"6AytvoW2-ZM\",130,76],[\"x\",\"638818928\",\"10395\",\"_nKKapoQnVg\",604,355],[\"o\",\"638818928\",\"10396\",\"PJSsdKXikuM\",130,87],[\"p\",\"638818928\",\"10397\",\"bYvSphVSKm4\",200,133],[\"q\",\"638818928\",\"10398\",\"tL7JPmT_HvI\",320,213],[\"r\",\"638818928\",\"10399\",\"bEgC-4Bza7E\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"89092ec435e22c52f08fbfd6fd5f5a67"}
+2016-12-01 23:05:01,768 [4] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:05:02,072 [4] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[]","hash":"b68a0a299fcde76feb7d8a2c35f90a29"}
+2016-12-01 23:07:06,134 [21] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:07:06,619 [21] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"e4011d3787:x\",\"sizes\":[[\"s\",\"638818928\",\"1039a\",\"NFkG32K2a-0\",75,44],[\"m\",\"638818928\",\"1039b\",\"GE0QFTB3IvM\",130,76],[\"x\",\"638818928\",\"1039c\",\"eGTMiuox8uo\",604,355],[\"o\",\"638818928\",\"1039d\",\"PeTmZn5oTo0\",130,87],[\"p\",\"638818928\",\"1039e\",\"9iKMdt_bgyk\",200,133],[\"q\",\"638818928\",\"1039f\",\"72xK7YXB9rU\",320,213],[\"r\",\"638818928\",\"103a0\",\"3TEeVydLNeI\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"bac1d027ce0f6317b5f05766d1607bd2"}
+2016-12-01 23:33:42,684 [16] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:33:45,689 [16] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:33:45,775 [16] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:33:46,094 [16] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:33:46,098 [16] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:33:47,934 [16] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:35:56,442 [18] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:35:59,727 [18] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:35:59,816 [18] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:36:00,111 [18] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:36:00,117 [18] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:36:01,166 [18] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:36:01,167 [18] INFO VkApi.FrameWork.Utils.Logger - http://api.vk.com/method/wall.post?message=mesaga&access_token=1f88e8e99abc98ca3580dae086d8330ac36aede27734c82d0ec753bf5b5a0dea288d81d71beef3831edca
+2016-12-01 23:36:03,845 [18] INFO VkApi.FrameWork.Utils.Logger - {"error":{"error_code":5,"error_msg":"User authorization failed: You must use HTTPS when passing an access token.","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"wall.post"},{"key":"message","value":"mesaga"}]}}
+2016-12-01 23:37:17,408 [14] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:37:20,473 [14] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:37:20,560 [14] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:37:21,096 [14] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:37:21,102 [14] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:37:23,313 [14] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:37:23,313 [14] INFO VkApi.FrameWork.Utils.Logger - https://api.vk.com/method/wall.post?message=mesaga&access_token=1f88e8e99abc98ca3580dae086d8330ac36aede27734c82d0ec753bf5b5a0dea288d81d71beef3831edca
+2016-12-01 23:37:26,172 [14] INFO VkApi.FrameWork.Utils.Logger - {"response":{"post_id":1336}}
+2016-12-01 23:38:34,991 [5] INFO VkApi.FrameWork.Utils.Logger - https://pu.vk.com/c638818/upload.php?act=do_add&mid=381108928&aid=-14&gid=0&hash=fbd5457f32e5d2bdeceb025460894081&rhash=5315cc5b2695480d4af06c159591ed47&swfupload=1&api=1&wallphoto=1
+2016-12-01 23:38:35,457 [5] INFO VkApi.FrameWork.Utils.Logger - {"server":638818,"photo":"[{\"photo\":\"67116ed881:x\",\"sizes\":[[\"s\",\"638818928\",\"103b3\",\"w_UodaNtsqw\",75,44],[\"m\",\"638818928\",\"103b4\",\"BUUr2yw8t_w\",130,76],[\"x\",\"638818928\",\"103b5\",\"aZTlRRFLcLQ\",604,355],[\"o\",\"638818928\",\"103b6\",\"aRSBYCBE0SQ\",130,87],[\"p\",\"638818928\",\"103b7\",\"4qPUSZH9IYw\",200,133],[\"q\",\"638818928\",\"103b8\",\"CdRgY3BjnhY\",320,213],[\"r\",\"638818928\",\"103b9\",\"H2hfsu29C2Y\",510,340]],\"kid\":\"57dc11d13a45d47d37269a6e483ad454\",\"debug\":\"xsxmxxxoxpxqxrx\"}]","hash":"0d2d9bd20295d9ed4fc8d8bc65aa3fe8"}
+2016-12-01 23:39:18,684 [26] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:39:21,742 [26] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:39:21,828 [26] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:39:22,130 [26] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:39:22,133 [26] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:39:24,517 [26] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:41:41,686 [18] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:41:44,657 [18] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:41:44,743 [18] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:41:45,053 [18] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:41:45,062 [18] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:41:46,569 [18] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:42:43,188 [7] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-01 23:42:46,295 [7] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-01 23:42:46,382 [7] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-01 23:42:46,681 [7] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-01 23:42:46,684 [7] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
+2016-12-01 23:42:47,894 [7] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-01 23:42:50,703 [7] INFO VkApi.FrameWork.Utils.Logger - 1339

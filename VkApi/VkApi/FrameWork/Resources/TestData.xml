@@ -7,7 +7,7 @@
   <email>autoperftester@gmail.com</email>
   <password>qwaszx@1</password>
   <token>1f88e8e99abc98ca3580dae086d8330ac36aede27734c82d0ec753bf5b5a0dea288d81d71beef3831edca</token>
-  <apiLink>http://api.vk.com/api.php</apiLink>
+  <apiLink>https://api.vk.com/method/</apiLink>
   <wait>3000</wait>
   <mainMenuItem>Store</mainMenuItem>
   <mainSubMenuItem>item</mainSubMenuItem>

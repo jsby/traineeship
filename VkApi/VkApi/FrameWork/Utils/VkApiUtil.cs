@@ -1,41 +1,28 @@
-﻿using System;
-using System.Collections.Specialized;
-using System.IO;
-using System.Json;
-using System.Runtime.Serialization.Json;
-using System.Web;
-using System.Xml;
+﻿using System.Xml;
 using log4net;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
-using VkApi.FrameWork;
-using VkApi.FrameWork.Utils;
 using VkApi.TestVK.Models;
-using XmlReader = VkApi.FrameWork.Utils.XmlReader;
 
-namespace VkApi
+namespace VkApi.FrameWork.Utils
 {
-    [TestClass]
-    public class UnitTest1
+    public class VkApiUtil
     {
-        [TestMethod]
-        public void TestMethod1()
+        protected static ILog Log = Logger.GetInstance();
+        private static readonly string Api = XmlReader.GetData("apiLink");
+        private static readonly string Token = "&access_token=" + XmlReader.GetData("token");
+        private static string _postId;
+
+        public static void Smth()
         {
-            string token = XmlReader.GetData("token");
-            ILog Log = Logger.GetInstance();
-            string requestToGetServer =
-                "https://api.vk.com/method/photos.getWallUploadServer.xml?access_token=" + token;
+            //string token = XmlReader.GetData("token");
+            // string requestToGetServer = "https://api.vk.com/method/photos.getWallUploadServer.xml?access_token=" + _token;
             /*string result = HttpsUtils.Get(request);
             Log.Info(result);*/
 
-            XmlDocument doc = HttpsUtils.GetXml(requestToGetServer);
-            string url = XmlReader.GetDataFrom(doc, "upload_url");
-            Log.Info(url);
+            XmlDocument doc = HttpsUtils.GetXml(Api + "photos.getWallUploadServer.xml?" + Token);
+            string serverUrl = XmlReader.GetDataFrom(doc, "upload_url");
 
-            //result = HttpsUtils.UploadImage(url, XmlReader.GetData("imagePath"), "photo", "image/jpeg");
-            
-            string result = HttpsUtils.UploadFile(url, XmlReader.GetData("imagePath"), "photo", "image/jpeg");
-            Log.Info(result);
+            string result = HttpsUtils.UploadFile(serverUrl, XmlReader.GetData("imagePath"), "photo", "image/jpeg");
 
             UploadResult uploadResult = JsonConvert.DeserializeObject<UploadResult>(result);
 
@@ -56,6 +43,11 @@ namespace VkApi
             string requestToPost = "https://api.vk.com/method/wall.post?message=happiness&attachment=" + imageValues.Response[0].Id + "&access_token=" + token;
             string reslt = HttpsUtils.Get(requestToPost);
             Log.Info(reslt);*/
+        }
+
+        public static void MakePost(string text)
+        {
+            _postId = XmlReader.GetDataFrom(HttpsUtils.GetXml(Api + "wall.post.xml?message=" + text + Token), "post_id");
         }
     }
 }
