@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <appPath>C:\\Windows\\system32\\calc.exe</appPath>
+  <windowName>Calculator</windowName>
+  <num1>12</num1>
+  <num2>999</num2>
+  <num3>19</num3>
+  <result>Display is  1,030 </result>
+  <wait>3000</wait>
+</data>

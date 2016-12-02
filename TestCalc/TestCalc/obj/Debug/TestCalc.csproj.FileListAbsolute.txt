@@ -1,0 +1,17 @@
+D:\VSProjects\TestCalc\TestCalc\obj\Debug\TestCalc.csprojResolveAssemblyReference.cache
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestCalc.dll.config
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestCalc.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestCalc.pdb
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\nunit.framework.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TechTalk.SpecFlow.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\nunit.framework.xml
+D:\VSProjects\TestCalc\TestCalc\obj\Debug\TestCalc.dll
+D:\VSProjects\TestCalc\TestCalc\obj\Debug\TestCalc.pdb
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\Framework\Resources\TestData.xml
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\Castle.Core.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestStack.White.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\Castle.Core.xml
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestStack.White.pdb
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\TestStack.White.xml
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\log4net.dll
+D:\VSProjects\TestCalc\TestCalc\bin\Debug\log4net.xml
