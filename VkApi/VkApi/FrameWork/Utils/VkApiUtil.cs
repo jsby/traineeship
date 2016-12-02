@@ -47,7 +47,28 @@ namespace VkApi.FrameWork.Utils
 
         public static void MakePost(string text)
         {
-            _postId = XmlReader.GetDataFrom(HttpsUtils.GetXml(Api + "wall.post.xml?message=" + text + Token), "post_id");
+            string result = HttpsUtils.Get(Api + "wall.post.xml?message=" + text + Token);
+            Log.Info(result);
+            //   _postId = XmlReader.GetDataFrom(HttpsUtils.GetXml(Api + "wall.post.xml?message=" + text + Token), "post_id");
+        }
+
+        public static void EditPost(string postId, string text)
+        {
+            string result = HttpsUtils.Get(Api + "wall.edit.xml?message=" + text + Token);
+            Log.Info(result);
+        }
+
+        public static void AddImageToPost(string postId, string imagePath)
+        {
+            // HttpsUtils.UploadFile()
+        }
+
+        public static string GetWallUploadServer()
+        {
+            XmlDocument doc = HttpsUtils.GetXml(Api + "photos.getWallUploadServer.xml?" + Token);
+            string url = XmlReader.GetDataFrom(doc, "upload_url");
+            Log.Info(url);
+            return url;
         }
     }
 }

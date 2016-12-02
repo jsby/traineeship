@@ -94,6 +94,7 @@
     <Compile Include="FrameWork\Utils\BrowserFactory.cs" />
     <Compile Include="FrameWork\Utils\HttpsUtils.cs" />
     <Compile Include="FrameWork\Utils\Logger.cs" />
+    <Compile Include="FrameWork\Utils\StringUtils.cs" />
     <Compile Include="FrameWork\Utils\XMLReader.cs" />
     <Compile Include="TestVK\Elements\MainMenu.cs" />
     <Compile Include="TestVK\Elements\StoreMenu.cs" />
@@ -111,9 +112,10 @@
   <ItemGroup>
     <Content Include="FrameWork\Resources\chromedriver.exe" />
     <Content Include="FrameWork\Resources\geckodriver.exe" />
-    <Content Include="FrameWork\Resources\TestData.xml" />
+    <Content Include="FrameWork\Resources\TestData.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="FrameWork\Resources\work.jpg" />
-    <Content Include="requests.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

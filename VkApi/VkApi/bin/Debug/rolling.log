@@ -580,3 +580,91 @@ Content-Type: image/jpeg
 2016-12-01 23:42:46,684 [7] INFO VkApi.FrameWork.Utils.Logger - Добро пожаловать | ВКонтакте is opened
 2016-12-01 23:42:47,894 [7] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
 2016-12-01 23:42:50,703 [7] INFO VkApi.FrameWork.Utils.Logger - 1339
+2016-12-02 13:18:36,172 [10] INFO VkApi.FrameWork.Utils.Logger - 
+2016-12-02 13:18:39,051 [10] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 13:18:41,934 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-02 13:18:42,034 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-02 13:18:42,424 [10] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-02 13:18:42,428 [10] INFO VkApi.FrameWork.Utils.Logger - Welcome! | VK is opened
+2016-12-02 13:18:45,140 [10] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-02 13:22:10,268 [10] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 13:22:13,482 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-02 13:22:13,587 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-02 13:22:13,909 [10] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-02 13:22:13,915 [10] INFO VkApi.FrameWork.Utils.Logger - Welcome! | VK is opened
+2016-12-02 13:22:17,718 [10] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-02 13:45:08,438 [10] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 13:45:12,420 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-02 13:45:12,535 [10] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-02 13:45:13,131 [10] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-02 13:45:13,135 [10] INFO VkApi.FrameWork.Utils.Logger - Welcome! | VK is opened
+2016-12-02 13:45:16,500 [10] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-02 13:47:17,839 [14] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 13:47:20,941 [14] INFO VkApi.FrameWork.Utils.Logger - TextBox <Email>: set autoperftester@gmail.com
+2016-12-02 13:47:21,046 [14] INFO VkApi.FrameWork.Utils.Logger - TextBox <Password>: set qwaszx@1
+2016-12-02 13:47:21,391 [14] INFO VkApi.FrameWork.Utils.Logger - Button <Log in>: click
+2016-12-02 13:47:21,398 [14] INFO VkApi.FrameWork.Utils.Logger - Welcome! | VK is opened
+2016-12-02 13:47:23,820 [14] INFO VkApi.FrameWork.Utils.Logger - Button <My page>: click
+2016-12-02 13:47:23,950 [14] INFO VkApi.FrameWork.Utils.Logger - <?xml version="1.0" encoding="utf-8"?>
+<error>
+ <error_code>5</error_code>
+ <error_msg>User authorization failed: user revoke access for this token.</error_msg>
+ <request_params list="true">
+  <param>
+   <key>oauth</key>
+   <value>1</value>
+  </param>
+  <param>
+   <key>method</key>
+   <value>wall.post.xml</value>
+  </param>
+  <param>
+   <key>message</key>
+   <value>mesaga</value>
+  </param>
+ </request_params>
+</error>
+
+2016-12-02 13:48:08,186 [7] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 13:48:11,738 [7] INFO VkApi.FrameWork.Utils.Logger - <?xml version="1.0" encoding="utf-8"?>
+<error>
+ <error_code>5</error_code>
+ <error_msg>User authorization failed: user revoke access for this token.</error_msg>
+ <request_params list="true">
+  <param>
+   <key>oauth</key>
+   <value>1</value>
+  </param>
+  <param>
+   <key>method</key>
+   <value>wall.post.xml</value>
+  </param>
+  <param>
+   <key>message</key>
+   <value>mesaga</value>
+  </param>
+ </request_params>
+</error>
+
+2016-12-02 14:07:13,478 [9] INFO VkApi.FrameWork.Utils.Logger - Browser: Chrome
+2016-12-02 14:07:16,575 [9] INFO VkApi.FrameWork.Utils.Logger - PKIAP
+2016-12-02 14:07:16,718 [9] INFO VkApi.FrameWork.Utils.Logger - <?xml version="1.0" encoding="utf-8"?>
+<error>
+ <error_code>5</error_code>
+ <error_msg>User authorization failed: user revoke access for this token.</error_msg>
+ <request_params list="true">
+  <param>
+   <key>oauth</key>
+   <value>1</value>
+  </param>
+  <param>
+   <key>method</key>
+   <value>wall.post.xml</value>
+  </param>
+  <param>
+   <key>message</key>
+   <value>mesaga</value>
+  </param>
+ </request_params>
+</error>
+

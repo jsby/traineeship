@@ -11,10 +11,11 @@ namespace VkApi.TestVK.Test
         [TestMethod]
         public void TestMethod()
         {
-            HomePage homePage = new HomePage();
-            homePage.LogIn(XmlReader.GetData("email"), XmlReader.GetData("password"));
-            NewsPage newsPage = new NewsPage();
-            newsPage.GoToMyWall();
+            /* HomePage homePage = new HomePage();
+             homePage.LogIn(XmlReader.GetData("email"), XmlReader.GetData("password"));
+             NewsPage newsPage = new NewsPage();
+             newsPage.GoToMyWall();*/
+            Log.Info(StringUtils.RandomString(5));
             VkApiUtil.MakePost("mesaga");
         }
     }
