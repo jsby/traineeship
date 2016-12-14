@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.IO;
 using System.Json;
@@ -21,41 +22,20 @@ namespace VkApi
         [TestMethod]
         public void TestMethod1()
         {
-            string token = XmlReader.GetData("token");
-            ILog Log = Logger.GetInstance();
-            string requestToGetServer =
-                "https://api.vk.com/method/photos.getWallUploadServer.xml?access_token=" + token;
-            /*string result = HttpsUtils.Get(request);
-            Log.Info(result);*/
-
-            XmlDocument doc = HttpsUtils.GetXml(requestToGetServer);
-            string url = XmlReader.GetDataFrom(doc, "upload_url");
-            Log.Info(url);
-
-            //result = HttpsUtils.UploadImage(url, XmlReader.GetData("imagePath"), "photo", "image/jpeg");
-            
-            string result = HttpsUtils.UploadFile(url, XmlReader.GetData("imagePath"), "photo", "image/jpeg");
-            Log.Info(result);
-
-            UploadResult uploadResult = JsonConvert.DeserializeObject<UploadResult>(result);
-
-            int server = uploadResult.Server;
-            string photo = uploadResult.Photo;
-            string hash = uploadResult.Hash;
-
-            /* Log.Info(uploadResult.Server);
-             Log.Info(uploadResult.Photo);
-             Log.Info(uploadResult.Hash);*/
-
-            /*string requestToSave = "https://api.vk.com/method/photos.saveWallPhoto?server=" + server + "&photo=" + HttpUtility.UrlEncode(photo) + "&hash=" + hash + "&access_token=" + token;
-            string res = HttpsUtils.Get(requestToSave);
-            Log.Info(res);
-            ImageValues imageValues = JsonConvert.DeserializeObject<ImageValues>(res);
-
-
-            string requestToPost = "https://api.vk.com/method/wall.post?message=happiness&attachment=" + imageValues.Response[0].Id + "&access_token=" + token;
-            string reslt = HttpsUtils.Get(requestToPost);
-            Log.Info(reslt);*/
+            ILog log = Logger.GetInstance();
+            List<int> belarusMembers = new List<int>();
+            List<int> members = VkApiUtil.GetMembers(XmlReader.GetData("group"));
+            foreach (var memberId in members)
+            {
+                if (VkApiUtil.GetUserCountry(memberId) == 3)
+                {
+                    belarusMembers.Add(memberId);
+                }
+            }
+            foreach (var blrMemberId in belarusMembers)
+            {
+                log.Info("https://vk.com/id" + blrMemberId);
+            }
         }
     }
 }

@@ -4,10 +4,11 @@
   <driversPath>..\\..\\FrameWork\\Resources\\</driversPath>
   <imagePath>..\\..\\FrameWork\\Resources\\work.jpg</imagePath>
   <startUrl>https://vk.com/</startUrl>
-  <email>autoperftester@gmail.com</email>
-  <password>qwaszx@1</password>
-  <token>1f88e8e99abc98ca3580dae086d8330ac36aede27734c82d0ec753bf5b5a0dea288d81d71beef3831edca</token>
+  <email>zazazzaa@yandex.ru</email>
+  <password></password>
+  <token>44dd828aeb433b32e7fd7545e80cbfb07c3ba58cfc2e64a740881320691ed8a0835f69eb9853300de5665</token>
   <apiLink>https://api.vk.com/method/</apiLink>
+  <group>core_club</group>
   <wait>3000</wait>
   <mainMenuItem>Store</mainMenuItem>
   <mainSubMenuItem>item</mainSubMenuItem>

@@ -98,8 +98,10 @@
     <Compile Include="FrameWork\Utils\XMLReader.cs" />
     <Compile Include="TestVK\Elements\MainMenu.cs" />
     <Compile Include="TestVK\Elements\StoreMenu.cs" />
+    <Compile Include="TestVK\Models\GroupMembers.cs" />
     <Compile Include="TestVK\Models\ImageValues.cs" />
     <Compile Include="TestVK\Models\UploadResult.cs" />
+    <Compile Include="TestVK\Models\UserInfo.cs" />
     <Compile Include="TestVK\Pages\NewsPage.cs" />
     <Compile Include="TestVK\Pages\HomePage.cs" />
     <Compile Include="TestVK\Pages\VkParentPage.cs" />

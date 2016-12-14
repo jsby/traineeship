@@ -1,4 +1,5 @@
-﻿using System.Xml;
+﻿using System.Collections.Generic;
+using System.Xml;
 using log4net;
 using Newtonsoft.Json;
 using VkApi.TestVK.Models;
@@ -14,6 +15,7 @@ namespace VkApi.FrameWork.Utils
 
         public static void Smth()
         {
+            //https://api.vk.com/method/users.get?user_id=167731844&fields=country,city
             //string token = XmlReader.GetData("token");
             // string requestToGetServer = "https://api.vk.com/method/photos.getWallUploadServer.xml?access_token=" + _token;
             /*string result = HttpsUtils.Get(request);
@@ -69,6 +71,24 @@ namespace VkApi.FrameWork.Utils
             string url = XmlReader.GetDataFrom(doc, "upload_url");
             Log.Info(url);
             return url;
+        }
+
+        public static List<int> GetMembers(string groupName)
+        {
+            string response = HttpsUtils.Get(Api + "groups.getMembers?group_id=" + groupName);
+            GroupMembers groupMembers = JsonConvert.DeserializeObject<GroupMembers>(response);
+            Log.Info("!!!");
+            Log.Info(groupMembers.GroupResponse.Count);
+            List<int> members = groupMembers.GroupResponse.Users;
+            return members;
+        }
+
+        public static int GetUserCountry(int userId)
+        {
+            string response = HttpsUtils.Get(Api + "users.get?user_id=" + userId + "&fields=country,city");
+            UserInfo userInfo = JsonConvert.DeserializeObject<UserInfo>(response);
+            //list with 1 element
+            return userInfo.User[0].Country;
         }
     }
 }

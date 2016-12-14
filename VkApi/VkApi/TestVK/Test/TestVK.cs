@@ -15,8 +15,9 @@ namespace VkApi.TestVK.Test
              homePage.LogIn(XmlReader.GetData("email"), XmlReader.GetData("password"));
              NewsPage newsPage = new NewsPage();
              newsPage.GoToMyWall();*/
-            Log.Info(StringUtils.RandomString(5));
-            VkApiUtil.MakePost("mesaga");
+            string randomStr = StringUtils.RandomString(5);
+            Log.Info(randomStr);
+            VkApiUtil.MakePost(randomStr);
         }
     }
 }
