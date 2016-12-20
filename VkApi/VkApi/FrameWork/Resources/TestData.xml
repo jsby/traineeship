@@ -6,7 +6,7 @@
   <startUrl>https://vk.com/</startUrl>
   <email>zazazzaa@yandex.ru</email>
   <password></password>
-  <token>44dd828aeb433b32e7fd7545e80cbfb07c3ba58cfc2e64a740881320691ed8a0835f69eb9853300de5665</token>
+  <token></token>
   <apiLink>https://api.vk.com/method/</apiLink>
   <group>core_club</group>
   <wait>3000</wait>
